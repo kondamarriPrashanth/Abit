@@ -1,5 +1,5 @@
 public with sharing class helloworld {
     public helloworld() {
-        System.debug('Hello World');
+        System.debug('Hello World has been instantiated!');
     }
 }
